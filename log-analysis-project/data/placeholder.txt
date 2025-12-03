@@ -1,0 +1,1 @@
+This folder stores sample logs used by the project. Replace with real .evtx or XML exports.

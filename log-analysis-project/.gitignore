@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv
+.venv/
+env/
+venv/
+.VENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and reports
+logs/
+*.log
+*.pdf
+reports_assets/
+bruteforce_alerts.csv
+events_extracted.csv
+bruteforce_report.pdf
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
